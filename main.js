@@ -136,6 +136,3 @@ document.getElementById('modalClose').addEventListener('click', closeModal)
 document.getElementById('salvar').addEventListener('click', saveClient)
 
 document.querySelector('#tableClient>tbody').addEventListener('click', editDelete)
-
-//https://www.youtube.com/watch?v=_HEIqE_qqbQ
-//https://github.com/fernandoleonid/mini-projetos-js/blob/master/08-crud/main.js
